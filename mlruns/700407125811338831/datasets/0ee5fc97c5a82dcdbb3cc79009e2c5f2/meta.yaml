@@ -1,0 +1,12 @@
+digest: '11397960'
+name: dataset
+profile: '{"num_rows": 623, "num_elements": 3738}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "pclass", "required": true},
+  {"type": "string", "name": "sex", "required": true}, {"type": "double", "name":
+  "age", "required": false}, {"type": "double", "name": "fare", "required": true},
+  {"type": "string", "name": "embarked", "required": false}, {"type": "long", "name":
+  "family", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Santosh Kumar_TSI", "mlflow.source.name": "C:\\Users\\Santosh
+  Kumar_TSI\\anaconda3\\envs\\myenv\\lib\\site-packages\\ipykernel_launcher.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

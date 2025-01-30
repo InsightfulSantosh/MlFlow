@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/842205580573845424/8725469cf77348188146ec80da473d0b/artifacts
+end_time: 1738271497068
+entry_point_name: ''
+experiment_id: '842205580573845424'
+lifecycle_stage: active
+run_id: 8725469cf77348188146ec80da473d0b
+run_name: capricious-newt-138
+run_uuid: 8725469cf77348188146ec80da473d0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738271489632
+status: 3
+tags: []
+user_id: Santosh Kumar_TSI

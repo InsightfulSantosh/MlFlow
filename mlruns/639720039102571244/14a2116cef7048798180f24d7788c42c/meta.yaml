@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/639720039102571244/14a2116cef7048798180f24d7788c42c/artifacts
+end_time: 1738271523925
+entry_point_name: ''
+experiment_id: '639720039102571244'
+lifecycle_stage: active
+run_id: 14a2116cef7048798180f24d7788c42c
+run_name: debonair-smelt-40
+run_uuid: 14a2116cef7048798180f24d7788c42c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738271512328
+status: 3
+tags: []
+user_id: Santosh Kumar_TSI
